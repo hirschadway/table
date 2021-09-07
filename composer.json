@@ -1,7 +1,7 @@
 {
     "name": "adway/support",
     "description": "this is a package for creating table in a new way",
-    "type": "metapackage",
+    "type":  "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
