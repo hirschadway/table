@@ -1,0 +1,21 @@
+{
+    "name": "adway/support",
+    "description": "this is a package for creating table in a new way",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adway\\Support\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hirsch Adway",
+            "email": "adwayweb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+       
+}
